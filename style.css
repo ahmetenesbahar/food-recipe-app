@@ -11,6 +11,10 @@ html {
   margin: 0;
   box-sizing: border-box;
 }
+a {
+  text-decoration: none;
+  color: #f6c90e;
+}
 
 img {
   width: 100%;
@@ -100,8 +104,8 @@ form input {
   text-align: center;
   width: 130px;
   padding: 10px 0;
-  background-color: #222831;
-  color: #eeee;
+  background-color: #1a1a1b;
+  color: #ffd369;
   font-size: 1.4rem;
   font-weight: 300;
   margin-top: 20px;
@@ -115,4 +119,23 @@ form input {
   font-size: 1.4rem;
   letter-spacing: 0.05rem;
   line-height: 2rem;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ffd369;
+  height: 100px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: darken(#ffd369, 50);
 }
