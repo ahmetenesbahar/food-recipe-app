@@ -1,4 +1,4 @@
-## Login/Register Page
+## Food Recipe App
 
 Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim bir yemek tarifi uygulamasıdır. Uygulamada istediğiniz yemeği aratabilir tarifine, kalorisine bakabilir veya elinizde bulunan malzemeyi aratıp o malzemeyle hangi yemekleri yapabilirsiniz bunu görebilirsiniz.
 
