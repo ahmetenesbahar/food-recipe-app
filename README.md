@@ -15,8 +15,8 @@ Klonlama işleminin ardından live server açarak kodu önizleyebilirsiniz.
 ## Ekran Görüntüleri
 
 <div>
-<img src="https://github.com/ahmetenesbahar/pokedex/blob/main/assets/screenshots/pokedex-one-rosy.vercel.app_.png">
-<img src="https://github.com/ahmetenesbahar/pokedex/blob/main/assets/screenshots/pokedex-one-rosy.vercel.app_%20(1).png">
+<img src="https://github.com/ahmetenesbahar/food-recipe-app/blob/main/assets/screenshots/food-recipe-app-lime.vercel.app_.png">
+<img src="https://github.com/ahmetenesbahar/food-recipe-app/blob/main/assets/screenshots/food-recipe-app-lime.vercel.app_%20(1).png">
 
 </div>
 
